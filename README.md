@@ -20,14 +20,10 @@ This module provides access to registration details for all vehicles registered 
 
 •	Add the “Verify_VehicleRegistration” page in your app navigation.
 
-•	Run the application.
-
-You're all set! You can now can search for the Vehicle details as you want.
-
 ### Note
 This API can only fetch the details of Vehicles which is registered in INDIA.
 
-### Result
+### Screenshots
 ![image](https://user-images.githubusercontent.com/126284025/222775806-b19e782c-d30c-47cc-85a7-42e261d4c032.png)
 
 ![image](https://user-images.githubusercontent.com/126284025/222775843-d4b64080-6fe4-42c2-a9cf-495455dbad58.png)
